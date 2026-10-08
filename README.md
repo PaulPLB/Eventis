@@ -8,4 +8,4 @@ Paul Brandstötter,
 Aaron Capistrano,
 Tobias Kalkhauser
 
-# Copyright 5-Gewinnt
+
